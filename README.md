@@ -976,7 +976,4 @@ local UserInputService = game:GetService("UserInputService")
         end
         return uitab
     end
-    
------------------------------
-local RenUi = library:AddWindow("Unit Hub | DearKung",Enum.KeyCode.RightControl)
------------------------------
+  
